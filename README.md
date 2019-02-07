@@ -23,6 +23,6 @@ Download the zip file [here](https://github.com/danahawwash/WritingAidTool/relea
 ----
 
 ## Usage
-Check out the video [here](https://www.youtube.com/watch?v=T7HbbCD0sxI).
+Check out the video [here](https://www.youtube.com/watch?v=T7HbbCD0sxI). The manual can be found [here](https://github.com/danahawwash/WritingAidTool/blob/master/Manual%20Writing%20Publication%20Aid.pdf).
 
 [Go to top of page](#WritingAidTool)
