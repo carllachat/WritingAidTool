@@ -27,7 +27,7 @@ IMPORTANT: if you have Mendeley Citation Plugin, you need to deactivate it for t
 
 ## Downloads
 
-Download the zip file [here](https://github.com/carllachat/WritingAidTool/releases/download/1.0.0/Install.zip).
+Download the zip file [here](https://github.com/carllachat/WritingAidTool/Install.zip).
 
 [Go to top of page](#WritingAidTool)
 
