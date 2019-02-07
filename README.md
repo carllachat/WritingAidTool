@@ -16,7 +16,7 @@ todo
 
 ## Downloads
 
-Download the zip file [here](https://github.com/compomics/colims/releases/download/1.3.2/colims-client-1.3.2.zip) and the colims storage module [here](http://genesis.ugent.be/colims/colims-distributed-1.3.2.zip). Go to the [ActiveMQ home page](http://activemq.apache.org/) for the latest version of ActiveMQ (Windows or Linux).
+Download the zip file [here](https://github.com/danahawwash/WritingAidTool/releases/tag/1.0.0).
 
 [Go to top of page](#WritingAidTool)
 
