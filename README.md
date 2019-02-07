@@ -16,7 +16,7 @@ todo
 
 ## Downloads
 
-Download the zip file [here](https://github.com/danahawwash/WritingAidTool/releases/tag/1.0.0).
+Download the zip file [here](https://github.com/danahawwash/WritingAidTool/releases/download/1.0.0/Install.zip).
 
 [Go to top of page](#WritingAidTool)
 
