@@ -50,3 +50,17 @@ To install and uninstall the software, check out the video [here](https://www.yo
 To understand how to use the software, check out the video [here](https://www.youtube.com/watch?v=T7HbbCD0sxI). 
 
 [Go to top of page](#WritingAidTool)
+
+## License
+
+This add-on is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see [here] (http://www.gnu.org/licenses/)
+
+Created by Automaticals Consulting
+http://www.automaticals.com/consulting
+contact: mailto:carl.lachat@ugent.be
+Authors: Carl Lachat (Project manager, concept), Dana Hawwash (Project manager, concept), Patrick Kolsteren (Concept), Nathalie De Cock (Concept), Chen Yang (Concept), Herwig Jacobs (Programming)
+
+## Copyright (C) 2016 Ghent University www.ugent.be
+
+
+
